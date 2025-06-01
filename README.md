@@ -18,7 +18,7 @@ Right now, I'm focused on:
 
 Here’s a small project I’m working on:
 
-🔗 [**Simple Calculator in C++**](https://github.com/your-username/simple-calculator)  
+🔗 [**mobile phone in C++**](https://github.com/WajihSheikh/datastructure.git)  
 _A basic command-line calculator that can do addition, subtraction, multiplication, and division._
 
 *(More to come as I learn!)*
